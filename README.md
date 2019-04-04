@@ -1,2 +1,2 @@
 # my-app
-My First MAven Project
+My Maven Project
